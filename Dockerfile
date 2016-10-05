@@ -1,2 +1,2 @@
 FROM wodby/drupal-nginx
-COPY conf/nginx.conf /etc/nginx
+COPY nginx.conf /etc/nginx
