@@ -1,1 +1,1 @@
-Docker image build files.
+Docker image based on **wodby/drupal-php**.
