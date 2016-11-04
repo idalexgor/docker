@@ -1,1 +1,1 @@
-Docker image build files.
+Docker image based on **jwilder/nginx-proxy**.
