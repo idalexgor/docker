@@ -7,6 +7,8 @@ RUN echo 'http://alpine.gliderlabs.com/alpine/edge/main' > /etc/apk/repositories
     echo 'http://alpine.gliderlabs.com/alpine/edge/testing' >> /etc/apk/repositories && \
 
     apk add --update \
+        bash \
+        postfix \
         libressl \
         ca-certificates \
         openssh-client \
